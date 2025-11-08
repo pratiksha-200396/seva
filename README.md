@@ -1,3 +1,3 @@
 # seva
 this is my first git repository
-author - pratiksha
+author - pratiksha(rinku)
